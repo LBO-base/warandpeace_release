@@ -45,3 +45,16 @@ it downloads the latest build from this repository.
 ## For builders
 Want your buildings to appear in every settlement of the world?
 See [docs/building-guide.md](docs/building-guide.md).
+
+## Roadmap
+Order, not dates. Details may shift with beta feedback.
+
+- **0.5.x — open beta (now)**: battle-model calibration, localization polish, fixes from tester reports.
+- **0.6 — Honest War**: armies with real composition (visible to scouts), abstract battles resolved by
+  a unit-level mini-simulation (ranged/melee, walls, high ground, typed losses).
+- **0.7 — Multiplayer**: polished co-op up to 5 players on dedicated servers.
+- **0.8 — Your Warband**: orders to your towns (send armies, defensive stance), diplomacy through
+  reputation and tribute, town growth and renaming, co-op progression.
+- **0.9 — Living World+**: named commanders with perks, siege engines, caravan ambushes and robberies,
+  world events, more community buildings.
+- **1.0 — Thunderstore release**: one-click install, onboarding hints, performance, final balance.
