@@ -56,6 +56,10 @@ See [docs/building-guide.md](docs/building-guide.md).
 
 ## Credits
 - **Iron Gate Studio** — for Valheim itself.
+- **[RustyMods](https://thunderstore.io/c/valheim/p/RustyMods/)** — our human viking
+  NPCs use the runtime Player-clone technique we studied in their
+  [VikingNPC](https://thunderstore.io/c/valheim/p/RustyMods/VikingNPC/) / Norsemen
+  mods (no assets or code borrowed — but the idea showed the way).
 - **BepInEx & HarmonyX teams** — the modding foundation everything here stands on.
 - **Our testers and builders** — the community buildings baked into the mod and
   the bug reports that shaped every battle-model fix.
