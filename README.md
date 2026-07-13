@@ -28,12 +28,12 @@ hire viking guards, trade, wage war and redraw the map.
 
 ## Install (manual)
 1. Download `releases/WarAndPeace-BuilderKit-<version>.zip`.
-2. Unpack; move the contents of the `В-ПАПКУ-ИГРЫ` folder into your Valheim
+2. Unpack; move the contents of the `INTO-GAME-FOLDER` folder into your Valheim
    root folder (next to `valheim.exe`). This includes BepInEx.
 3. Start the game. Done.
 
 ## Update
-Run `ОБНОВИТЬ-МОД.bat` in your Valheim folder **with the game closed** —
+Run `UPDATE-MOD-RU.bat` in your Valheim folder **with the game closed** —
 it downloads the latest build from this repository.
 
 ## Multiplayer / dedicated servers
