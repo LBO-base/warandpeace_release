@@ -36,11 +36,19 @@ hire viking guards, trade, wage war and redraw the map.
 Run `UPDATE-MOD-RU.bat` in your Valheim folder **with the game closed** —
 it downloads the latest build from this repository.
 
+## In game
+- **H** — the settlement panel: passport of the nearest town (economy, garrison,
+  wars, buildings, faction standings). Your window into everything.
+- **F7** — Layout Studio: save your own buildings as blueprints for the world.
+- **F9** — battle range: call an army onto the nearest town and watch the fight.
+- Hotkeys and everything else are tunable: [docs/config.md](docs/config.md).
+
 ## Multiplayer / dedicated servers
 - The mod must be installed **on the server AND on every client**, same version
   (the mod warns in chat on mismatch).
 - All simulation runs server-side; the server's config is authoritative.
 - See [docs/server-setup.md](docs/server-setup.md). Economy explained: [docs/economy.md](docs/economy.md).
+  Config reference: [docs/config.md](docs/config.md).
 
 ## For builders
 Want your buildings to appear in every settlement of the world?
