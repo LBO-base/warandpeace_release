@@ -54,6 +54,12 @@ it downloads the latest build from this repository.
 Want your buildings to appear in every settlement of the world?
 See [docs/building-guide.md](docs/building-guide.md).
 
+## Credits
+- **Iron Gate Studio** — for Valheim itself.
+- **BepInEx & HarmonyX teams** — the modding foundation everything here stands on.
+- **Our testers and builders** — the community buildings baked into the mod and
+  the bug reports that shaped every battle-model fix.
+
 ## Roadmap
 Order, not dates. Details may shift with beta feedback.
 
