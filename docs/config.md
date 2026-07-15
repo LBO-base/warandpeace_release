@@ -25,7 +25,7 @@ Upgrading from *WarAndPiece* 0.4.x? The old `com.rarier.warandpiece.cfg` and the
 
 | Key | What it opens | Config entry |
 |-----|---------------|--------------|
-| **H** | Settlement panel — passport of the nearest town: economy, garrison, wars, buildings, factions | `[HUD] SettlementPanelKey` |
+| **Alt+H** | Settlement panel — passport of the nearest town: economy, garrison, wars, buildings, factions | `[HUD] SettlementPanelKey` |
 | **F7** | Layout Studio — save your own buildings as blueprints for the whole world ([building guide](building-guide.md)) | `[Debug] LayoutStudioKey`, host only |
 | **F9** | Battle range — call an army of any faction onto the nearest town and watch the prediction vs the live fight | `[Debug] CalibPanelKey`, host only |
 

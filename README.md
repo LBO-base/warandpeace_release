@@ -37,7 +37,7 @@ Run `UPDATE-MOD-RU.bat` in your Valheim folder **with the game closed** —
 it downloads the latest build from this repository.
 
 ## In game
-- **H** — the settlement panel: passport of the nearest town (economy, garrison,
+- **Alt+H** — the settlement panel: passport of the nearest town (economy, garrison,
   wars, buildings, faction standings). Your window into everything.
 - **F7** — Layout Studio: save your own buildings as blueprints for the world.
 - **F9** — battle range: call an army onto the nearest town and watch the fight.
@@ -67,12 +67,20 @@ See [docs/building-guide.md](docs/building-guide.md).
 ## Roadmap
 Order, not dates. Details may shift with beta feedback.
 
-- **0.5.x — open beta (now)**: battle-model calibration, localization polish, fixes from tester reports.
-- **0.6 — Honest War**: armies with real composition (visible to scouts), abstract battles resolved by
-  a unit-level mini-simulation (ranged/melee, walls, high ground, typed losses).
+**Ongoing, across every version:**
+- ⚔ **Faction & NPC balance is tuned continuously** — from real battle data (every clash leaves a
+  forecast/result pair, and the model is corrected by numbers, not by feel). Rosters, unit strength
+  and the pace of war are live-tuned build to build.
+- 🏛 **Buildings for each faction keep being added** — more authored structures per faction type and
+  biome ship with the mod over time; draw your own and send them in (see the builder guide).
+
+**Milestones:**
+- ✅ ~~**0.5.x — open beta**: battle-model calibration, full localization, fixes from tester reports.~~
+- ✅ ~~**0.6 — Honest War**: abstract battles resolved by a **unit-level mini-simulation** — ranged/melee
+  and kiting, walls and high ground, **typed losses** (mages die last, melee grind in the clash).~~
 - **0.7 — Multiplayer**: polished co-op up to 5 players on dedicated servers.
 - **0.8 — Your Warband**: orders to your towns (send armies, defensive stance), diplomacy through
   reputation and tribute, town growth and renaming, co-op progression.
 - **0.9 — Living World+**: named commanders with perks, siege engines, caravan ambushes and robberies,
-  world events, more community buildings.
+  world events, even more community buildings.
 - **1.0 — Thunderstore release**: one-click install, onboarding hints, performance, final balance.
